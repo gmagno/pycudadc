@@ -11,4 +11,4 @@ make build
 make run
 ```
 
-A Game of Life demo from Ezequiel Alfie (https://wiki.tiker.net/PyCUDA/Examples/Demo3DSurface) should run.
+A Game of Life demo from Ezequiel Alfie (https://wiki.tiker.net/PyCuda/Examples/GameOfLife) should run.
